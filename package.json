@@ -1,0 +1,10 @@
+{
+  "name": "segmentio-on-body",
+  "description": "Component: calls back after document.body exists.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component-each": "git://github.com/npmcomponent/component-each.git"
+  },
+  "license": "MIT"
+}
